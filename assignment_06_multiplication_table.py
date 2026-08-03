@@ -48,9 +48,6 @@
 #   print an error message and stop.
 # - Each part must be in its own function (see scaffold below).
 # - Complete Part A before attempting Part B.
-#
-
-#
 # =============================================================================
 # YOUR CODE BELOW — remove the # symbols from the scaffold and fill it in
 # =============================================================================
