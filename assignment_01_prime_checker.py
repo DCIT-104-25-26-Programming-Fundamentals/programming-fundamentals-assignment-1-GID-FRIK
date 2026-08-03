@@ -46,4 +46,4 @@ if __name__ == "__main__":
     if is_prime(num):
         print(f"{num} is a prime number.")
     else:
-        print(f"{num} is NOT a prime number.") 
+        print(f"{num} is NOT a prime number.")  
